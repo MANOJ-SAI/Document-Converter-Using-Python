@@ -1,6 +1,25 @@
 # Document-Converter-Using-Python
 Used for PDF to Document and Document to PDF
 
+## PDF TO DOCX Interface
+
+
+![image](https://user-images.githubusercontent.com/54106362/130760835-0bfdee27-41ae-419b-a42f-2a411b2f97dd.png)
+
+
+
+
+
+## DOCX TO PDF Interface
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/54106362/130761093-846aa29e-8546-4036-ad9c-d9069cc65f76.png)
+
+
+
 ## Word to PDF CONVERTER
 ![Capture](https://user-images.githubusercontent.com/54106362/130744381-e6aeb4da-1ba8-41a4-808a-6782b2726c3f.PNG)
 ### Introduction
@@ -42,3 +61,55 @@ a fixed-layout flat document, including the text, fonts, vector graphics, raster
 > - pip install docx2pdf
 
 # Steps to run the code:
+## Step-1: Execute .py file or .ipynb file
+> - We have Two source file as Converter.ipynb and .py files
+> - We can Execute any One of the File
+> - After Execution
+
+
+
+
+
+
+
+
+>  ![Capture](https://user-images.githubusercontent.com/54106362/130756620-104eba9a-e138-495b-ac11-36c48dd92212.PNG)
+
+## Step-2: Select conversion 
+> - We have two types of conversions in this application.
+> - PDF to Docx and Docx to PDF options we must choose any one on the option only.
+
+
+
+![Capture](https://user-images.githubusercontent.com/54106362/130758165-c1f6ea9e-d49f-4c12-a78b-73535e880b67.PNG)
+> - When we choose the PDF to docx option then it changes to PDF to DOCX Converter
+> - When we choose the docx to PDF option then it changes PDF to Docx Converter
+
+
+
+![image](https://user-images.githubusercontent.com/54106362/130758801-2809346d-b31c-415d-8f4c-5f797280b70e.png)
+
+
+
+## Step-3: Select file the using browse button under the FIle-Location label
+> - After select the file path
+
+![Capture](https://user-images.githubusercontent.com/54106362/130759323-a7eaa940-c607-48ea-b7dd-94d7a2ada1e5.PNG)
+
+> - After the select Saved Folder Location
+
+![image](https://user-images.githubusercontent.com/54106362/130759647-a5665bbc-6b23-4c78-a52b-05918a451ef3.png)
+
+
+## Step-4: Click the Convert button
+> - After Click the Convert button it can loading the File and Convert it ,it takes few seconds..
+> -After Completion of Conversion
+
+
+
+![Capture](https://user-images.githubusercontent.com/54106362/130760647-9f80e1dd-a1a1-44a9-93c0-916af4303389.PNG)
+
+
+
+
+> - Now Check the File in the give saved Folder Location
