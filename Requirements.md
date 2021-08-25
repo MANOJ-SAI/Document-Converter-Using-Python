@@ -1,4 +1,5 @@
 # Requirements
+> - Python
 > - pip install tk
 > - pip install Pillow
 > - pip install pathlib
